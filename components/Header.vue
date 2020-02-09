@@ -1,5 +1,4 @@
 <template>
-<div>
       <v-app-bar
         color="gray accent-4"
         dark
@@ -37,5 +36,4 @@
           </v-list>
         </v-menu>
       </v-app-bar>
-    </div>
 </template>
